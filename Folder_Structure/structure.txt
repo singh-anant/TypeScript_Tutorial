@@ -1,0 +1,10 @@
+tsc -init-The tsc -init command is used to initialize a TypeScript configuration file named tsconfig.json in a project.
+This file is used to configure the TypeScript compiler (tsc) settings for your project. Running tsc -init generates a basic tsconfig.json file 
+with default settings.
+
+tsconfig.json Use??
+
+The tsconfig.json file is used to configure the TypeScript compiler (tsc) settings for your project.
+ It allows you to specify various options and settings that influence how TypeScript files are compiled into JavaScript.
+
+We want dist folder to have compiled ts file i.e going to be js file.
